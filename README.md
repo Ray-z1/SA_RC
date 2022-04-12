@@ -1,1 +1,1 @@
-# SA_RC
+we carry out the SA global optimization algorithm 50 independent times to find the optimal hyper-parameters for the RC and obtain 50 sets of optimized Win and Wres respectively. Based on such a result we discuss the choice of several key hyper-parameters, i.e., the topology of the reservoir matrix, the distribution of the weight, the spectral radius ρ, and the largest singular value σ
